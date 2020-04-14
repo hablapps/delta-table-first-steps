@@ -4,7 +4,7 @@ This repositori made by [habla computing](www.habla.dev) shows the basics to wor
 You can read it directly fro github, of try without installing nothing using [binder](https://mybinder.org/v2/gh/hablapps/delta-table-first-steps/master).
 
 Index:
-* [Working with parket](./Working%20with%20parquet.ipynb)
+* [Working with parquet](./Working%20with%20parquet.ipynb)
 * [Delta basics](./DeltaTableExample.ipynb)
 * [Delta advance]()
 * [Real world case]()
