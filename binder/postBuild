@@ -18,6 +18,8 @@ SCALA_VERSION=2.12.10 ALMOND_VERSION=0.9.1
   --metabrowse
 rm -f almond-scala-2.12
 
+./coursier fetch org.apache.spark:spark-sql_2.12:2.4.5
+
 # Install required Jupyter/JupyterLab extensions
 jupyter labextension install @jupyterlab/plotly-extension
 
